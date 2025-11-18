@@ -1,4 +1,4 @@
-<p><b>Análise espacial e temporal de acidentes e registros do escorpião Tityus serrulatus no Município de Florianópolis entre 2019 e 2024</b></p>
+<p><b>Análise espacial e temporal de acidentes e registros do escorpião <i>Tityus serrulatus</i> no Município de Florianópolis entre 2019 e 2024</b></p>
 <p><i>Amanda Madruga Souza</i></p>
 
 <p>Dados e scripts usados no Trabalho de Conclusão de Curso submetido ao curso de Licenciatura em Ciências Biológicas do Centro de Ciências Biológicas da UFSC.</p>
